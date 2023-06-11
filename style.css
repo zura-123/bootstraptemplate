@@ -1,0 +1,135 @@
+.section{
+    display: flex;
+    gap: 200px;
+}
+.section-1{
+    display: flex;
+    gap: 70px;
+}
+.button-1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: right;
+    letter-spacing: 0.2px;
+    color: #23A6F0;
+    border: none;
+    background: none;
+}
+.button-2{
+    background: #23A6F0;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    Width:214px;
+    Height:52px;
+}
+.text-1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 80px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+    width:378px;
+    height:160px;
+}
+.text-2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #737373;
+    width: 376px;
+    height: 60px;
+}
+.text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #252B42;
+    }
+    .icon{
+        display: flex;
+        gap: 20px;
+    }
+    .image{
+    width:571px;
+    height:826px;
+}
+h6{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+h4{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1px;
+    color: #252B42;
+}
+.button-3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #23A6F0;
+    background: none;
+    border-radius: 13px;
+    border-color: #23A6F0;
+}
+.dark{
+    background-color: #252B42;
+    height: 403px;
+}
+.box{
+    margin-top: 100px;
+}
+.box-1{
+    display: flex;
+    gap: 1100px;
+}
+.box-2{
+    display: flex;
+    gap: 30px;
+}
